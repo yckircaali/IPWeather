@@ -1,2 +1,2 @@
 # IPWeather
-Find the weather by IP address
+Find the weather by ur IP address
